@@ -4,7 +4,7 @@ import java.net.*;
 
 public class Server {
     public static void main(String[] args) {
-        int port = 2000;
+        int port = 88;
         
         Socket socket = null;
         try{
